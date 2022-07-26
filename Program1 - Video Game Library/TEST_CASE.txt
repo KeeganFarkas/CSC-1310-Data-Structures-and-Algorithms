@@ -1,0 +1,16 @@
+5
+1
+invalid_filename.txt
+1
+GameList.txt
+2
+duck.txt
+3
+Lucah: Born of a Dream
+melessthanhree
+Syndicate Atomic
+2018
+4
+4
+5
+6
